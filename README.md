@@ -5,10 +5,11 @@ Prepare for your interview with this cheatsheet of the most asked coding questio
 
 companies like:
 
-Accenture
-TCS
-Infosys
-Capgemini
-Wipro
-Cognizant
+* Accenture
+* TCS
+* Infosys
+* Capgemini
+* Wipro
+* Cognizant
+
 and etc...
